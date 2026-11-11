@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-11-11T07:21:04+00:00",
+  "tests": [
+    {
+      "name": "Top 100 list (CoinGecko)",
+      "ok": true,
+      "detail": "got 100 coins, number 1 is BTC"
+    },
+    {
+      "name": "Bitcoin daily candles (Kraken)",
+      "ok": true,
+      "detail": "got 721 candles"
+    },
+    {
+      "name": "Bitcoin 4-hour candles (Kraken)",
+      "ok": true,
+      "detail": "got 721 candles"
+    },
+    {
+      "name": "Bitcoin weekly candles (Kraken)",
+      "ok": true,
+      "detail": "got 684 candles"
+    },
+    {
+      "name": "Ethereum daily candles (Kraken)",
+      "ok": true,
+      "detail": "got 721 candles"
+    }
+  ],
+  "all_ok": true
+}
