@@ -1,0 +1,2407 @@
+{
+ "checked_at": "2026-11-11T07:27:13+00:00",
+ "coins": [
+  {
+   "rank": 1,
+   "symbol": "BTC",
+   "name": "Bitcoin",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 683,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 2,
+   "symbol": "ETH",
+   "name": "Ethereum",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 587,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 3,
+   "symbol": "USDT",
+   "name": "Tether",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 4,
+   "symbol": "BNB",
+   "name": "BNB",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 568,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 81,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (81)"
+    }
+   }
+  },
+  {
+   "rank": 5,
+   "symbol": "USDC",
+   "name": "USDC",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 6,
+   "symbol": "XRP",
+   "name": "XRP",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 494,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 7,
+   "symbol": "SOL",
+   "name": "Solana",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 281,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 8,
+   "symbol": "TRX",
+   "name": "TRON",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 348,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 9,
+   "symbol": "FIGR_HELOC",
+   "name": "Figure Heloc",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 10,
+   "symbol": "HYPE",
+   "name": "Hyperliquid",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 287,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 41,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (41)"
+    }
+   }
+  },
+  {
+   "rank": 11,
+   "symbol": "ZEC",
+   "name": "Zcash",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 523,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 12,
+   "symbol": "XMR",
+   "name": "Monero",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 514,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 13,
+   "symbol": "DOGE",
+   "name": "Dogecoin",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 359,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 14,
+   "symbol": "USDS",
+   "name": "USDS",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 15,
+   "symbol": "LEO",
+   "name": "LEO Token",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 16,
+   "symbol": "WBT",
+   "name": "WhiteBIT Coin",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 251,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 35,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (35)"
+    }
+   }
+  },
+  {
+   "rank": 17,
+   "symbol": "LINK",
+   "name": "Chainlink",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 372,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 18,
+   "symbol": "ADA",
+   "name": "Cardano",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 423,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 19,
+   "symbol": "XLM",
+   "name": "Stellar",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 512,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 20,
+   "symbol": "USDE",
+   "name": "Ethena USDe",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 21,
+   "symbol": "NEAR",
+   "name": "NEAR Protocol",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 229,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 22,
+   "symbol": "BCH",
+   "name": "Bitcoin Cash",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 484,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 23,
+   "symbol": "DAI",
+   "name": "Dai",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 24,
+   "symbol": "LTC",
+   "name": "Litecoin",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 680,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 25,
+   "symbol": "UNI",
+   "name": "Uniswap",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 316,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 26,
+   "symbol": "AVAX",
+   "name": "Avalanche",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 255,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 27,
+   "symbol": "CC",
+   "name": "Canton",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 366,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 52,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (52)"
+    }
+   }
+  },
+  {
+   "rank": 28,
+   "symbol": "SUI",
+   "name": "Sui",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 184,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 29,
+   "symbol": "GRAM",
+   "name": "Gram (prev. Toncoin)",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 30,
+   "symbol": "XAUT",
+   "name": "Tether Gold",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 425,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 60,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (60)"
+    }
+   }
+  },
+  {
+   "rank": 31,
+   "symbol": "USD1",
+   "name": "USD1",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 32,
+   "symbol": "RAIN",
+   "name": "Rain",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 33,
+   "symbol": "HBAR",
+   "name": "Hedera",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 489,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 69,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (69)"
+    }
+   }
+  },
+  {
+   "rank": 34,
+   "symbol": "PYUSD",
+   "name": "PayPal USD",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 35,
+   "symbol": "RLUSD",
+   "name": "Ripple USD",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 36,
+   "symbol": "USDG",
+   "name": "Global Dollar",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 37,
+   "symbol": "SHIB",
+   "name": "Shiba Inu",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 258,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 38,
+   "symbol": "QNT",
+   "name": "Quant",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 241,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 39,
+   "symbol": "TAO",
+   "name": "Bittensor",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 124,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 40,
+   "symbol": "USDY",
+   "name": "Ondo US Dollar Yield",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 41,
+   "symbol": "CRO",
+   "name": "Cronos",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 651,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 93,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (93)"
+    }
+   }
+  },
+  {
+   "rank": 42,
+   "symbol": "PEPE",
+   "name": "Pepe",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 182,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 43,
+   "symbol": "USYC",
+   "name": "Circle USYC",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 44,
+   "symbol": "ENA",
+   "name": "Ethena",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 127,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 45,
+   "symbol": "OKB",
+   "name": "OKB",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 222,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (222)"
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 31,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (31)"
+    }
+   }
+  },
+  {
+   "rank": 46,
+   "symbol": "EURSAFO",
+   "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 47,
+   "symbol": "AAVE",
+   "name": "Aave",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 308,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 48,
+   "symbol": "USDF",
+   "name": "Falcon USD",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 49,
+   "symbol": "PAXG",
+   "name": "PAX Gold",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 367,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 50,
+   "symbol": "ONDO",
+   "name": "Ondo",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 134,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 51,
+   "symbol": "M",
+   "name": "MemeCore",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 52,
+   "symbol": "BTW",
+   "name": "Bitway",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 53,
+   "symbol": "BUIDL",
+   "name": "BlackRock USD Institutional Digital Liquidity Fund",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 54,
+   "symbol": "ASTER",
+   "name": "Aster",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 387,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 55,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (55)"
+    }
+   }
+  },
+  {
+   "rank": 55,
+   "symbol": "U",
+   "name": "United Stables",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 56,
+   "symbol": "PUMP",
+   "name": "Pump.fun",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 485,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 69,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (69)"
+    }
+   }
+  },
+  {
+   "rank": 57,
+   "symbol": "WLFI",
+   "name": "World Liberty Financial",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 436,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 62,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (62)"
+    }
+   }
+  },
+  {
+   "rank": 58,
+   "symbol": "USDD",
+   "name": "USDD",
+   "status": "skipped: stablecoin"
+  },
+  {
+   "rank": 59,
+   "symbol": "DOT",
+   "name": "Polkadot",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 325,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 60,
+   "symbol": "ICP",
+   "name": "Internet Computer",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 242,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 61,
+   "symbol": "MORPHO",
+   "name": "Morpho",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 102,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 62,
+   "symbol": "MNT",
+   "name": "Mantle",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 123,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 63,
+   "symbol": "SKY",
+   "name": "Sky",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 110,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 64,
+   "symbol": "HTX",
+   "name": "HTX DAO",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 65,
+   "symbol": "BFUSD",
+   "name": "BFUSD",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 66,
+   "symbol": "BGB",
+   "name": "Bitget Token",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 285,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 40,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (40)"
+    }
+   }
+  },
+  {
+   "rank": 67,
+   "symbol": "WLD",
+   "name": "Worldcoin",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 616,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 88,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (88)"
+    }
+   }
+  },
+  {
+   "rank": 68,
+   "symbol": "JST",
+   "name": "JUST",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 589,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 84,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (84)"
+    }
+   }
+  },
+  {
+   "rank": 69,
+   "symbol": "ARB",
+   "name": "Arbitrum",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 189,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 70,
+   "symbol": "USDGO",
+   "name": "USDGO",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 84,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (84)"
+    },
+    "4h": {
+     "finished_candles": 502,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 12,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (12)"
+    }
+   }
+  },
+  {
+   "rank": 71,
+   "symbol": "ETC",
+   "name": "Ethereum Classic",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 537,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 72,
+   "symbol": "GT",
+   "name": "Gate",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 73,
+   "symbol": "KCS",
+   "name": "KuCoin",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 74,
+   "symbol": "OUSD",
+   "name": "Open USD",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 42,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (42)"
+    },
+    "4h": {
+     "finished_candles": 250,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 6,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (6)"
+    }
+   }
+  },
+  {
+   "rank": 75,
+   "symbol": "POL",
+   "name": "POL (ex-MATIC)",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 150,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 76,
+   "symbol": "VVV",
+   "name": "Venice Token",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 622,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 88,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (88)"
+    }
+   }
+  },
+  {
+   "rank": 77,
+   "symbol": "LIT",
+   "name": "Lighter",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 114,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 78,
+   "symbol": "JUP",
+   "name": "Jupiter",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 145,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 79,
+   "symbol": "RENDER",
+   "name": "Render",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 118,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 80,
+   "symbol": "KAS",
+   "name": "Kaspa",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 103,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 81,
+   "symbol": "INJ",
+   "name": "Injective",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 274,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 82,
+   "symbol": "PI",
+   "name": "Pi Network",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 243,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (243)"
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 34,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (34)"
+    }
+   }
+  },
+  {
+   "rank": 83,
+   "symbol": "ALGO",
+   "name": "Algorand",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 355,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 84,
+   "symbol": "ATOM",
+   "name": "Cosmos Hub",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 394,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 85,
+   "symbol": "NIGHT",
+   "name": "Midnight",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 337,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 48,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (48)"
+    }
+   }
+  },
+  {
+   "rank": 86,
+   "symbol": "NEXO",
+   "name": "NEXO",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 20,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (20)"
+    },
+    "4h": {
+     "finished_candles": 118,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (118)"
+    },
+    "weekly": {
+     "finished_candles": 2,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (2)"
+    }
+   }
+  },
+  {
+   "rank": 87,
+   "symbol": "GHO",
+   "name": "GHO",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 88,
+   "symbol": "USTB",
+   "name": "Invesco Short Duration US Government Securities Fund",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 89,
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 316,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 90,
+   "symbol": "ETHFI",
+   "name": "Ether.fi",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 127,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 91,
+   "symbol": "ZRO",
+   "name": "LayerZero",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 124,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 92,
+   "symbol": "STX",
+   "name": "Stacks",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 213,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 93,
+   "symbol": "XDC",
+   "name": "XDC Network",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 435,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 62,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (62)"
+    }
+   }
+  },
+  {
+   "rank": 94,
+   "symbol": "CAKE",
+   "name": "PancakeSwap",
+   "status": "incomplete data",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 558,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 79,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": false,
+     "why_not": "too few candles (79)"
+    }
+   }
+  },
+  {
+   "rank": 95,
+   "symbol": "JAAA",
+   "name": "Janus Henderson Anemoy AAA CLO Fund",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 96,
+   "symbol": "BDX",
+   "name": "Beldex",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 97,
+   "symbol": "DASH",
+   "name": "Dash",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 500,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 98,
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "status": "ok",
+   "timeframes": {
+    "daily": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-10T00:00+00:00",
+     "usable": true
+    },
+    "4h": {
+     "finished_candles": 720,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-11-11T00:00+00:00",
+     "usable": true
+    },
+    "weekly": {
+     "finished_candles": 153,
+     "unfinished_dropped": 1,
+     "gaps_recent": 0,
+     "problems": [],
+     "last_finished_candle": "2026-10-29T00:00+00:00",
+     "usable": true
+    }
+   }
+  },
+  {
+   "rank": 99,
+   "symbol": "USD0",
+   "name": "Usual USD",
+   "status": "not on Kraken (USD)"
+  },
+  {
+   "rank": 100,
+   "symbol": "PEARL",
+   "name": "Pearl",
+   "status": "not on Kraken (USD)"
+  }
+ ],
+ "summary": {
+  "ok": 46,
+  "skipped: stablecoin": 12,
+  "incomplete data": 22,
+  "not on Kraken (USD)": 20
+ }
+}
